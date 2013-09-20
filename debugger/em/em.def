@@ -1,0 +1,5 @@
+LIBRARY dm
+
+EXPORTS
+        EMFunc          PRIVATE
+        OSDebug4VersionCheck PRIVATE

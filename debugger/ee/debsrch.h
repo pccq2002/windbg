@@ -1,0 +1,1 @@
+void __stdcall InsertCache (CV_typ_t, HEXE);
